@@ -129,22 +129,22 @@
     </div>
 
     <pre>
-      <span style="color: blue;">████████████      </span>
-  <span style="color: blue;">████▒▒▒▒▒▒▒▒░░░░████  </span>
-<span style="color: #808080;">██▒▒▒▒            ░░░░██</span>
-<span style="color: #808080;">████                ████</span>
-<span style="color: #808080;">██░░████        ████▓▓██</span>
-<span style="color: #808080;">██░░░░░░████████    ▓▓██</span>
-<span style="color: #808080;">██░░░░    ▒▒▒▒▒▒  ▒▒▓▓██</span>
-<span style="color: #808080;">██░░░░  ░░▒▒▒▒▒▒  ▓▓▓▓██</span>
-  <span style="color: #808080;">██░░░░  ░░▒▒▒▒▒▒▓▓██  </span>
-  <span style="color: #808080;">██░░░░  ░░▒▒▒▒  ▓▓██  </span>
-  <span style="color: #808080;">██░░░░░░░░▒▒▒▒▒▒▓▓██  </span>
-    <span style="color: #808080;">██░░░░░░▒▒▒▒▒▒██    </span>
-    <span style="color: #808080;">██▒▒░░░░▒▒▒▒▒▒██    </span>
-      <span style="color: #808080;">████████████      </span>
+      <span style="color: Red;">    ⣠⣴⣾⣿⣿⣿⣿⣶⣤⡀⢀⣠⣤⣤⣄⡀⢀⣤⣶⣿⣿⣿⣿⣷⣦⣄</span>
+  <span style="color: blue;">    ⢀⣼⣿⣿⡿⠿⢿⣿⣿⣿⣿⣿⣿⠉⠉⠉⠉⣿⣿⣿⣿⣿⣿⡿⠿⢿⣿⣿⣧⡀   </span>
+<span style="color: #808080;">  ⣸⣿⡟⢡⣶⣶⣤⣽⣿⣿⣿⣿⣿⣧⣤⣤⣼⣿⣿⣿⣿⣿⣯⣤⣶⣶⡌⢻⣿⣇</span>
+<span style="color: #808080;">  ⣿⣿⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⣿⣿</span>
+<span style="color: #808080;">  ⢻⣿⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⣿⡟</span>
+<span style="color: #808080;">   ⠘⢿⣧⠀⠀⢀⣽⣿⠟⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠻⣿⣯⡀⠀⠀⣼⡿⠃</span>
+<span style="color: #808080;">     ⠈⠻⣷⡀⣾⣿⣇⠀⠀⠙⠋⢸⣿⣿⣿⣿⡇⠙⠋⠀⠀⣸⣿⣷⢀⣾⠟⠁</span>
+<span style="color: #808080;">         ⠉⠛⣿⣧⠀⠀⠀⠘⠿⣿⣿⠿⠃⠀⠀⠀⣼⣿⠛⠉</span>
+  <span style="color: #808080;">          ⢸⣿⡀⢀⣤⣤⣤⣀⣀⣤⣤⣤⡀⢀⣿⡇</span>
+  <span style="color: #808080;">          ⢸⣿⡇⠀⠉⠀⢉⣉⣉⡉⠀⠉⠀⢸⣿⡇</span>
+  <span style="color: #808080;">          ⠘⢿⣷⣦⣀⣠⣾⣿⣿⣷⣄⣀⣴⣾⡿⠃</span>
+    <span style="color: #808080;">          ⠉⠛⣿⣿⣿⣿⣿⣿⣿⣿⠛⠉</span>
+    <span style="color: #808080;">             ⢻⣿⣿⣿⣿⣿⣿⡟ </span>
+      <span style="color: #808080;">            ⠉⠈⢿⡿⠁⠉ </span>
     </pre>
-
+    
     <p>
         Discord: 0xlivin<br>
         Email: infantlivingston1@gmail.com
