@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WaterBucket</title>
+    <title>InfantLivingston</title>
     <style>
         body {
             background-color: #000;
@@ -113,17 +113,17 @@
     </header>
 
     <nav>
-        <a href="https://www.linkedin.com/in/dharani-sanjaiy-/" target="_blank">LinkedIn</a>
-        <a href="https://github.com/Dharani-sanjaiy" target="_blank">GitHub</a>
-        <a href="https://medium.com/@WaterBucket" target="_blank">Blog</a>
-        <a href="https://twitter.com/DharaniSanjaiy" target="_blank">Twitter</a>
+        <a href="https://www.linkedin.com/in/infant-livingston-9a3a73215" target="_blank">LinkedIn</a>
+        <a href="https://github.com/0xlivin" target="_blank">GitHub</a>
+        <a href="" target="_blank">Blog</a>
+        <a href="" target="_blank">Twitter</a>
     </nav>
 
     <div class="command-prompt">
-        C:\Users\WaterBucket> type .\whoami.txt
+        C:\Users\0xlivin> type .\whoami.txt
         <br>
         <br>
-        <span>Hi. I am Dharani Sanjaiy and I go by the names "WaterBucket" & "ThanniKudam".</span>
+        <span>Hi. I am Infant Livingston and I go by the names "0xlivin".</span>
         <br>
         <span>And yes, For me this ASCII art looks cool :)</span>
     </div>
@@ -146,8 +146,8 @@
     </pre>
 
     <p>
-        Discord: thannikudam<br>
-        Email: iamthannikudam@gmail.com
+        Discord: 0xlivin<br>
+        Email: infantlivingston1@gmail.com
     </p>
 
     <footer>
@@ -157,7 +157,7 @@
         <p>ahh. Compiling the loader..</p>
     </footer>
     <div id="hackTheBoxContainer">
-        <script src="https://www.hackthebox.eu/badge/1210955"></script>
+        <script src="https://www.hackthebox.com/badge/329323"></script>
     </div>
 </body>
 </html>
