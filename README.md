@@ -115,7 +115,7 @@
     <nav>
         <a href="https://www.linkedin.com/in/infant-livingston-9a3a73215" target="_blank">LinkedIn</a>
         <a href="https://github.com/0xlivin" target="_blank">GitHub</a>
-        <a href="https://medium.com/@infantlivingston1" target="_blank">Blog</a>
+        <a href="https://medium.com/@0xlivin" target="_blank">Blog</a>
         <a href="" target="_blank">Twitter</a>
     </nav>
 
